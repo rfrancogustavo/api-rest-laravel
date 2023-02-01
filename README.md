@@ -1,4 +1,4 @@
-# CADASTRO-CLIENTE-PLACA
+# API-REST-LARAVEL
 
 - ## What this application do
 #### Is an api designed to manage a simple customer database that saves your name, phone number, social security number and car license plate. It has methods of registering new ones, editing existing ones, deleting and consulting existing ones through their id or end of the plate
